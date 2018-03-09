@@ -29,8 +29,9 @@ Give it a try now, it's free!
 
 
 
-###History 
+###History
 ---
- - v.2.1.0 - 20180305 | Creating folders of favicomatic
+ - v.2.2.0 - 20180309 | Updated all icons up to and including epsilon. Transparent BGs included.
+ - v.2.1.0 - 20180305 | Creating folders of favicomatic generated icons
  - v.2.0.0 - 20160725 | Began organizing icons into folder's based on greek letter's name. Included all 4 Apple Touch icon sizes.
  - v.1.0.0 - All assets in main folder
