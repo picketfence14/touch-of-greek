@@ -1,5 +1,5 @@
 # Touch of Greek
-## v.2.1.2
+## v.2.1.3
 ---
 
 ### Description
@@ -31,8 +31,9 @@ Give it a try now, it's free!
 
 ###History
 ---
- - v.2.2.1 - 20180312 | Updated through theta.
- - v.2.2.0 - 20180309 | Updated all icons up to and including epsilon. Transparent BGs included.
+ - v.2.1.3 - 20180313 | Organizing Repo
+ - v.2.1.2 - 20180312 | Updated through theta.
+ - v.2.1.1 - 20180309 | Updated all icons up to and including epsilon. Transparent BGs included.
  - v.2.1.0 - 20180305 | Creating folders of favicomatic generated icons
  - v.2.0.0 - 20160725 | Began organizing icons into folder's based on greek letter's name. Included all 4 Apple Touch icon sizes.
  - v.1.0.0 - All assets in main folder
