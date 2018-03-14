@@ -1,5 +1,5 @@
 # Touch of Greek
-## v.2.3.2
+## v.2.3.3
 ---
 
 ### Description
@@ -31,6 +31,8 @@ Give it a try now, it's free!
 
 ### History
 ---
+
+ - v.2.3.3 - 20180314 | Added iota
  - v.2.3.2 - 20180313 | Fixed malformed tag
  - v.2.3.1 - 20180313 | Accidentally tagged this as 2.1.3
  - v.2.2.2 - 20180313 | Organizing Repo
