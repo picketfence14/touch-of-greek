@@ -1,5 +1,5 @@
 # Touch of Greek
-## v.2.4.2
+## v2.4.3
 ---
 
 ### Description
@@ -31,6 +31,7 @@ Give it a try now, it's free!
 
 ### History
 ---
+ - v2.4.3 - 20180416 | Updated through Pi!
  - v2.4.2 - 20180413 | Added omicron
  - v2.4.1 - 20180322 | Includes nu
  - v2.4.0 - 20180321 | Contains first 13 letters (through mu)
