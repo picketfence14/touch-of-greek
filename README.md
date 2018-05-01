@@ -1,11 +1,13 @@
 # Touch of Greek
-## v2.4.3
+## v2.5.0
 ---
 
 ### Description
 ---
 
-Label your site's development phases with these apple-touch-icons inspired by the greek alphabet.
+Personalize your site with these icons featuring hand drawn Greek Letters which can be used to add labels your site for testing or stylistic purposes.
+
+Label your site's development phases with these apple-touch-icons, favicons, and feature images inspired by the greek alphabet!
 
 
 ### Author
@@ -22,7 +24,7 @@ Brian Smith
 ##### Favic-o-Matic
 ---
 
-This product is not affiliated with Favic-o-Matic or their fine products. However, recent updates would not be possible without their amazing Ultimate Favicon Generator and their favic-o-meter.
+Touch-of-Greek is not affiliated with Favic-o-Matic, I merely wish to recognize their fine products! However, recent updates would not be possible without their amazing Ultimate Favicon Generator and their favic-o-meter.
 
 Favic-o-Matic generates favicons, both .ico & .png (even transparent ones!), and the HTML code needed to make your website look awesome on every browser and every device.
 Give it a try now, it's free!
@@ -31,7 +33,10 @@ Give it a try now, it's free!
 
 ### History
 ---
- - v2.4.3 - 20180416 | Updated through Pi!
+
+ - v2.5.0 - 20180501 | Feature Images folder added, updated through Epsilon
+ - v2.4.4 - 20180501 | Rho icons added
+ - v2.4.3 - 20180416 | Updated through Pi
  - v2.4.2 - 20180413 | Added omicron
  - v2.4.1 - 20180322 | Includes nu
  - v2.4.0 - 20180321 | Contains first 13 letters (through mu)
