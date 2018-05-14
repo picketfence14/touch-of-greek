@@ -1,5 +1,5 @@
 # Touch of Greek
-## v2.5.0
+## v2.5.1
 ---
 
 ### Description
@@ -33,7 +33,7 @@ Give it a try now, it's free!
 
 ### History
 ---
-
+ - v2.5.1 - 20180514 | Added sigma icons and feature image
  - v2.5.0 - 20180501 | Feature Images folder added, updated through Epsilon
  - v2.4.4 - 20180501 | Rho icons added
  - v2.4.3 - 20180416 | Updated through Pi
