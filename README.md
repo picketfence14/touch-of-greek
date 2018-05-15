@@ -1,5 +1,5 @@
 # Touch of Greek
-## v2.5.1
+## v2.5.2
 ---
 
 ### Description
@@ -33,6 +33,7 @@ Give it a try now, it's free!
 
 ### History
 ---
+ - v2.5.2 - 20180515 | Added tau icons and feature image
  - v2.5.1 - 20180514 | Added sigma icons and feature image
  - v2.5.0 - 20180501 | Feature Images folder added, updated through Epsilon
  - v2.4.4 - 20180501 | Rho icons added
